@@ -1,4 +1,4 @@
-// Copyright Epic Games, Inc. All Rights Reserved.
+// MIT License
 
 using UnrealBuildTool;
 using System.Collections.Generic;
